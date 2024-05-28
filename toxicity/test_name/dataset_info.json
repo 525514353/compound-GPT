@@ -1,0 +1,24 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "smiles": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "ids": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "Ames Mutagenicity": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "names": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}

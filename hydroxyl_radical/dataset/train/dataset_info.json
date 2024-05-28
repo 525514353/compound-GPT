@@ -1,0 +1,48 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "num": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "Names": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "smi": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "Ref": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "logkOH\u2022": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "outliers": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "train_set": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "valid_set": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "test_set": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "AD_screening": {
+      "dtype": "float64",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
